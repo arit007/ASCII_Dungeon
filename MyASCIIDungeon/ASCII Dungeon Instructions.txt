@@ -1,0 +1,14 @@
+Instructions:
+
+- Type help to show the command list and what each icon represents on the map
+- Use n,s,e,w to move north, south, east, and west respectively
+- Type 'get' to collect items
+
+
+How To Win
+----------
+- You must collect two SWORDs and a CROWN scattered throughout the map in order to win
+
+How To Lose
+-----------
+- You do not collect all of the required items (two SWORDs and a CROWN)
